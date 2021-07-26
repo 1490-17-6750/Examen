@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agexport", "Agexport\Agexport.csproj", "{29981DD5-C922-40B6-937C-A48F5C1A3265}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29981DD5-C922-40B6-937C-A48F5C1A3265}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29981DD5-C922-40B6-937C-A48F5C1A3265}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29981DD5-C922-40B6-937C-A48F5C1A3265}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29981DD5-C922-40B6-937C-A48F5C1A3265}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EC7FE23-3531-4D36-ACB5-14C5F81374D6}
+	EndGlobalSection
+EndGlobal
